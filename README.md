@@ -113,17 +113,45 @@ The application follows a client-server architecture:
 
 ### Application Overview
 
+<p align="center"> <img src="./docs/screenshots/main-screen.png" alt="Social Circle Main Screen" width="90%"> </p>
+
+<p align="center"> <img src="./docs/screenshots/tech-info.png" alt="Social Circle Technical Information" width="90%"> </p>
+
+### Backend API status
+
+<p align="center"> <img src="./docs/screenshots/backend-api-status.png" alt="Social Circle Backend API Status" width="90%"> </p>
+
 ### User Authentication
+
+<p align="center"> <img src="./docs/screenshots/not-logged.png" alt="Social Circle Logged Out View" width="90%"> </p>
+
+<p align="center"> <img src="./docs/screenshots/login-screen.png" alt="Social Circle Login Screen" width="90%"> </p>
+
+<p align="center"> <img src="./docs/screenshots/register-new-user.png" alt="Social Circle Registration Screen" width="90%"> </p>
+
+<p align="center"> <img src="./docs/screenshots/demo-account-login.png" alt="Social Circle Demo Account login" width="40%"> </p>
 
 ### Social Feed
 
+<p align="center"> <img src="./docs/screenshots/social-feed.png" alt="Social Circle Social Feed" width="90%"> </p>
+
+<p align="center"> <img src="./docs/screenshots/individual-post-view.png" alt="Social Circle Individual Post View" width="90%"> </p>
+
 ### User Profiles
+
+<p align="center"> <img src="./docs/screenshots/logged-user-profile.png" alt="Social Circle Logged In User Profile" width="90%"> </p>
 
 ### User Connections
 
+<p align="center"> <img src="./docs/screenshots/get-all-users.png" alt="Social Circle All Users" width="90%"> </p>
+
+<p align="center"> <img src="./docs/screenshots/followed-user-profiles.png" alt="Social Circle Followed User Profiles" width="90%"> </p>
+
+<p align="center"> <img src="./docs/screenshots/unfollow-user.png" alt="Social Circle Unfollow User" width="90%"> </p>
+
 ### Mobile View
 
-> **Note:** These are placeholder image references. Add the corresponding screenshots to `docs/screenshots/` when available.
+<p align="center"> <img src="./docs/screenshots/mobile-view.png" alt="Social Circle Mobile View" width="50%"> </p>
 
 ## Live Demo
 
